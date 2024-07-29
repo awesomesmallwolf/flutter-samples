@@ -1,12 +1,3 @@
-# Flutter Samples
-
-You can follow me on twitter [@diegoveloper](https://www.twitter.com/diegoveloper)
-
-<a href='https://www.buymeacoffee.com/diegoveloper' target="_blank" rel="noopener noreferrer"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png"/></a>
-
-
-
-
 ## Getting Started
 To build and run this project:
 
@@ -16,14 +7,6 @@ To build and run this project:
 4. run `flutter run-android` or `flutter run-ios` to build the app.
 
 (Please note that a Mac with XCode is required to build for iOS)
-
-
-
-
-
-<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Logo_of_YouTube_%282015-2017%29.svg/502px-Logo_of_YouTube_%282015-2017%29.svg.png' width="250">
-
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/bYqeGigTsBw/0.jpg)](http://www.youtube.com/watch?v=bYqeGigTsBw "diegoveloper")
 
 
 ## FLUTTER SAMPLES
